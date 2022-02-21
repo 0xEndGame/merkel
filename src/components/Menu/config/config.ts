@@ -22,7 +22,7 @@ const config: (t: ContextApi['t']) => ConfigMenuItemsType[] = (t) => [
     ],
   },
   {
-    label: t('Earn'),
+    label: t('JiuceConf'),
     href: '/farms',
     icon: 'Earn',
     items: [
